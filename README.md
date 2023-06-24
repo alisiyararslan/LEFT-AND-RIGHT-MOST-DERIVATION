@@ -1,0 +1,2 @@
+# LEFT-AND-RIGHT-MOST-DERIVATION
+In this project, a Python program was  writen  for left and right most derivation. For this purpose, this program should take three inputs. First is “ll.txt” which contains LL(1) parsing table for left most derivation. Second is “lr.txt” which contains LR(1) parsing table for right most derivation. Third is “input.txt” which contains input strings (could be more than 2) with their corresponding tables should be processed. 
